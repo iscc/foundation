@@ -1,0 +1,17 @@
+site_name: ISCC Foundation
+repo_name: 'iscc/foundation'
+repo_url: 'https://github.com/iscc/foundation'
+
+
+# Copyright
+copyright: 'Copyright © 2019 ISCC Foundation'
+
+
+theme:
+    name: 'material'
+    language: 'en'
+    favicon: 'images/favicon.ico'
+    logo: 'images/iscc-logo-white.svg'
+    palette:
+        primary: 'purple'
+        accent: 'pink'

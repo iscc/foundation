@@ -1,2 +1,1 @@
-# foundation
-ISCC Foundation Website
+# ISCC Foundation Website

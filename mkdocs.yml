@@ -13,5 +13,5 @@ theme:
     favicon: 'images/favicon.ico'
     logo: 'images/iscc-logo-white.svg'
     palette:
-        primary: 'purple'
+        primary: 'Blue Grey'
         accent: 'pink'

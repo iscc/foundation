@@ -10,7 +10,11 @@
       <meta name="viewport" content="width=device-width,initial-scale=1">
       <meta http-equiv="x-ua-compatible" content="ie=edge">
       
+        <meta name="description" content="An open, decentralized content identifier">
       
+      
+      
+        <meta name="author" content="Sebastian Posth, Titusz Pan">
       
       
         <meta name="lang:clipboard.copy" content="Copy to clipboard">
@@ -31,8 +35,8 @@
       
         <meta name="lang:search.tokenizer" content="[\s\-]+">
       
-      <link rel="shortcut icon" href="/images/favicon.ico">
-      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-3.3.0">
+      <link rel="shortcut icon" href="images/favicon.ico">
+      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-4.1.1">
     
     
       
@@ -40,9 +44,9 @@
       
     
     
-      <link rel="stylesheet" href="/assets/stylesheets/application.572ca0f0.css">
+      <link rel="stylesheet" href="assets/stylesheets/application.3020aac5.css">
       
-        <link rel="stylesheet" href="/assets/stylesheets/application-palette.22915126.css">
+        <link rel="stylesheet" href="assets/stylesheets/application-palette.224b79ff.css">
       
       
         
@@ -51,7 +55,7 @@
       
     
     
-      <script src="/assets/javascripts/modernizr.962652e9.js"></script>
+      <script src="assets/javascripts/modernizr.01ccdecf.js"></script>
     
     
       
@@ -60,8 +64,10 @@
         <style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
       
     
-    <link rel="stylesheet" href="/assets/fonts/material-icons.css">
+    <link rel="stylesheet" href="assets/fonts/material-icons.css">
     
+    
+      <link rel="stylesheet" href="styles/extra.css">
     
     
       
@@ -77,25 +83,6 @@
       <defs>
         
         
-          <svg xmlns="http://www.w3.org/2000/svg" width="416" height="448"
-    viewBox="0 0 416 448" id="__github">
-  <path fill="currentColor" d="M160 304q0 10-3.125 20.5t-10.75 19-18.125
-        8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19 18.125-8.5
-        18.125 8.5 10.75 19 3.125 20.5zM320 304q0 10-3.125 20.5t-10.75
-        19-18.125 8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19
-        18.125-8.5 18.125 8.5 10.75 19 3.125 20.5zM360
-        304q0-30-17.25-51t-46.75-21q-10.25 0-48.75 5.25-17.75 2.75-39.25
-        2.75t-39.25-2.75q-38-5.25-48.75-5.25-29.5 0-46.75 21t-17.25 51q0 22 8
-        38.375t20.25 25.75 30.5 15 35 7.375 37.25 1.75h42q20.5 0
-        37.25-1.75t35-7.375 30.5-15 20.25-25.75 8-38.375zM416 260q0 51.75-15.25
-        82.75-9.5 19.25-26.375 33.25t-35.25 21.5-42.5 11.875-42.875 5.5-41.75
-        1.125q-19.5 0-35.5-0.75t-36.875-3.125-38.125-7.5-34.25-12.875-30.25-20.25-21.5-28.75q-15.5-30.75-15.5-82.75
-        0-59.25 34-99-6.75-20.5-6.75-42.5 0-29 12.75-54.5 27 0 47.5 9.875t47.25
-        30.875q36.75-8.75 77.25-8.75 37 0 70 8 26.25-20.5
-        46.75-30.25t47.25-9.75q12.75 25.5 12.75 54.5 0 21.75-6.75 42 34 40 34
-        99.5z" />
-</svg>
-        
       </defs>
     </svg>
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
@@ -107,9 +94,9 @@
   <nav class="md-header-nav md-grid">
     <div class="md-flex">
       <div class="md-flex__cell md-flex__cell--shrink">
-        <a href="/." title="ISCC Foundation" class="md-header-nav__button md-logo">
+        <a href="https://iscc.foundation" title="ISCC Foundation" class="md-header-nav__button md-logo">
           
-            <img src="/images/iscc-logo-white.svg" width="24" height="24">
+            <img src="images/iscc-logo-white.svg" width="24" height="24">
           
         </a>
       </div>
@@ -119,22 +106,19 @@
       <div class="md-flex__cell md-flex__cell--stretch">
         <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
           
-            
-              <span class="md-header-nav__topic">
-                ISCC Foundation
-              </span>
-              <span class="md-header-nav__topic">
-                
-              </span>
-            
+            <span class="md-header-nav__topic">
+              ISCC Foundation
+            </span>
+            <span class="md-header-nav__topic">
+              
+            </span>
           
         </div>
       </div>
       <div class="md-flex__cell md-flex__cell--shrink">
         
+          <label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
           
-            <label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
-            
 <div class="md-search" data-md-component="search" role="dialog">
   <label class="md-search__overlay" for="__search"></label>
   <div class="md-search__inner" role="search">
@@ -157,33 +141,8 @@
     </div>
   </div>
 </div>
-          
         
       </div>
-      
-        <div class="md-flex__cell md-flex__cell--shrink">
-          <div class="md-header-nav__source">
-            
-
-
-  
-
-
-  <a href="https://github.com/iscc/foundation/" title="Go to repository" class="md-source" data-md-source="github">
-    
-      <div class="md-source__icon">
-        <svg viewBox="0 0 24 24" width="24" height="24">
-          <use xlink:href="#__github" width="24" height="24"></use>
-        </svg>
-      </div>
-    
-    <div class="md-source__repository">
-      iscc/foundation
-    </div>
-  </a>
-
-          </div>
-        </div>
       
     </div>
   </nav>
@@ -203,35 +162,13 @@
                   <div class="md-sidebar__inner">
                     <nav class="md-nav md-nav--primary" data-md-level="0">
   <label class="md-nav__title md-nav__title--site" for="__drawer">
-    <a href="/." title="ISCC Foundation" class="md-nav__button md-logo">
+    <a href="https://iscc.foundation" title="ISCC Foundation" class="md-nav__button md-logo">
       
-        <img src="/images/iscc-logo-white.svg" width="48" height="48">
+        <img src="images/iscc-logo-white.svg" width="48" height="48">
       
     </a>
     ISCC Foundation
   </label>
-  
-    <div class="md-nav__source">
-      
-
-
-  
-
-
-  <a href="https://github.com/iscc/foundation/" title="Go to repository" class="md-source" data-md-source="github">
-    
-      <div class="md-source__icon">
-        <svg viewBox="0 0 24 24" width="24" height="24">
-          <use xlink:href="#__github" width="24" height="24"></use>
-        </svg>
-      </div>
-    
-    <div class="md-source__repository">
-      iscc/foundation
-    </div>
-  </a>
-
-    </div>
   
   <ul class="md-nav__list" data-md-scrollfix>
     
@@ -241,8 +178,32 @@
 
 
   <li class="md-nav__item">
-    <a href="/." title="ISCC Foundation" class="md-nav__link">
-      ISCC Foundation
+    <a href="." title="About the Foundation" class="md-nav__link">
+      About the Foundation
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="iscc/" title="About the ISCC" class="md-nav__link">
+      About the ISCC
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="support/" title="Become a Supporter" class="md-nav__link">
+      Become a Supporter
     </a>
   </li>
 
@@ -278,7 +239,11 @@
       <div class="md-footer-copyright">
         
           <div class="md-footer-copyright__highlight">
-            Copyright © 2019 ISCC Foundation
+            Copyright © 2019 ISCC Foundation |
+              <a href="/privacy">Privacy Policy</a> |
+              <a href="/cookies">Cookie Policy</a> |
+              <a href="/imprint">Imprint</a> |
+              <a href="/disclaimer">Disclaimer</a>
           </div>
         
         powered by
@@ -288,17 +253,24 @@
           Material for MkDocs</a>
       </div>
       
-        
-      
+  <div class="md-footer-social">
+    <link rel="stylesheet" href="assets/fonts/font-awesome.css">
+    
+      <a href="/" class="md-footer-social__link fa fa-home"></a>
+    
+      <a href="https://github.com/iscc" class="md-footer-social__link fa fa-github"></a>
+    
+  </div>
+
     </div>
   </div>
 </footer>
       
     </div>
     
-      <script src="/assets/javascripts/application.a353778b.js"></script>
+      <script src="assets/javascripts/application.dc02f8ce.js"></script>
       
-      <script>app.initialize({version:"1.0.4",url:{base:"/"}})</script>
+      <script>app.initialize({version:"1.0.4",url:{base:""}})</script>
       
     
   </body>

@@ -1,3 +1,5 @@
+title: Support the ISCC
+description: Support the development of the ISCC Standard and ecosystem.
 # Become a Supporter
 
 The **ISCC Foundation** is an independent international **nonprofit** organization. In order to reach our goals, you can support us in various ways:

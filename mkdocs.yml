@@ -1,17 +1,55 @@
-site_name: ISCC Foundation
-repo_name: 'iscc/foundation'
-repo_url: 'https://github.com/iscc/foundation'
+# Project information
+site_name: 'ISCC Foundation'
+site_description: 'An open, decentralized content identifier'
+site_author: 'Sebastian Posth, Titusz Pan'
+site_url: 'https://iscc.foundation'
 
 
 # Copyright
 copyright: 'Copyright © 2019 ISCC Foundation'
 
-
+# Docs and Theme
 theme:
     name: 'material'
+    custom_dir: 'theme'
     language: 'en'
     favicon: 'images/favicon.ico'
     logo: 'images/iscc-logo-white.svg'
+    feature:
+        tabs: false
     palette:
         primary: 'Blue Grey'
         accent: 'pink'
+
+# Navigation
+nav:
+    - About the Foundation: 'index.md'
+    - About the ISCC: 'iscc.md'
+    - Become a Supporter: 'support.md'
+
+# Options
+extra:
+    search:
+        language: 'en'
+    social:
+        - type: 'home'
+          link: '/'
+        - type: 'github'
+          link: 'https://github.com/iscc'
+extra_css:
+  - 'styles/extra.css'
+
+markdown_extensions:
+    - markdown.extensions.abbr
+    - markdown.extensions.attr_list
+    - markdown.extensions.admonition
+    - markdown.extensions.codehilite:
+        linenums: false
+        guess_lang: false
+    - markdown.extensions.attr_list
+    - markdown.extensions.def_list
+    - markdown.extensions.footnotes
+    - markdown.extensions.meta
+    - markdown.extensions.toc:
+        permalink: '#'
+    - pymdownx.magiclink

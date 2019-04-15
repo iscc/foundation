@@ -19,5 +19,3 @@ The ISCC will be even more useful the more users agree on the suggested standard
 
 See ISCC Specification at: <https://iscc.codes>
 
-![iscc-sample](images/iscc-badge.svg)
-

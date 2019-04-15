@@ -3,7 +3,7 @@ description: About the International Standard Content Code
 
 # About the ISCC
 
-![iscc-sample](images/iscc-logo.jpg)
+![iscc-sample](images/ISCC-logo-1.png)
 
 With the emergence of blockchain technology the Internet is moving towards a network of peer-to-peer transactions. An increasing amount of dynamic, short-lived and granular content needs to be managed and require new and innovative tools.
 

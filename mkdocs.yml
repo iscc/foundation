@@ -14,7 +14,7 @@ theme:
     custom_dir: 'theme'
     language: 'en'
     favicon: 'images/favicon.ico'
-    logo: 'images/ICON-ISCC-2-white-free.svg'
+    logo: 'images/iscc-icon-white.svg'
     feature:
         tabs: false
     palette:

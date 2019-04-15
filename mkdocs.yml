@@ -20,6 +20,9 @@ theme:
     palette:
         primary: 'Blue Grey'
         accent: 'pink'
+    font:
+        text: 'Open Sans'
+        code: 'Source Code Pro'
 
 # Navigation
 nav:

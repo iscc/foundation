@@ -1,6 +1,6 @@
 # Cookie Policy
 
-This is the cookie policy of ISCC Foundation (“**ISCC Foundation**”, "we," "us" or "our"), a company having its address at Boerhaavelaan 99, Leiden. ISCC Foundation, registered in the Trade registry of the Chamber of Commerce with the number KvK (to be announced). This cookie policy explains how we use cookies and how we share and protect your data in relation to our website https://iscc.foundation (the "**Service**"). We use the cookies and collect your data in a manner which is compliable with the General Data Protection Regulation (**“GDPR”**), the Dutch telecommunication law and all other relevant which is in effect at this moment.
+This is the cookie policy of ISCC Foundation (“**ISCC Foundation**”, "we," "us" or "our"), a company having its address at Boerhaavelaan 99, Leiden. ISCC Foundation, registered in the Trade registry of the Chamber of Commerce with the number KvK 74793241. This cookie policy explains how we use cookies and how we share and protect your data in relation to our website https://iscc.foundation (the "**Service**"). We use the cookies and collect your data in a manner which is compliable with the General Data Protection Regulation (**“GDPR”**), the Dutch telecommunication law and all other relevant which is in effect at this moment.
 
 ## What are cookies?
 

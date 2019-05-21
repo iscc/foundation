@@ -10,7 +10,7 @@ Individual or regular financial contributions or donations are welcome. They sup
 
 ## Endorsements
 
-We appreciate non-monetary endorsements from interested parties. The ISCC currently is a new work item proposal at the proposal stage at [ISO/TC 46/SC 9](https://iso.org/committee/48836.html). But any standard will only be relevant, if it is being adopted and used by the community. You can help the ISCC Foundation significantly by proliferating news and information about the ISCC and by linking to the specification and available applications.
+We appreciate non-monetary endorsements from interested parties. The ISCC currently is a new preliminary work item (PWI) at [ISO/TC 46/SC 9](https://iso.org/committee/48836.html). But any standard will only be relevant, if it is being adopted and used by the community. You can help the ISCC Foundation significantly by proliferating news and information about the ISCC and by linking to the specification and available applications.
 
 ## Workshops and Online-Courses
 

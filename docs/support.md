@@ -8,6 +8,10 @@ The **ISCC Foundation** is an independent international **nonprofit** organizati
 
 Individual or regular financial contributions or donations are welcome. They support the development and communication of the **ISCC Standard**. You might be able to deduct your donation from the tax. Please contact us if you have any questions regarding tax deductions.
 
+We also accept donations via **Bitcoin**: **[35DHTs9Uf6fB4bLt4AejSMs1ub6w8Mf1PS](bitcoin:35DHTs9Uf6fB4bLt4AejSMs1ub6w8Mf1PS)**
+
+
+
 ## Endorsements
 
 We appreciate non-monetary endorsements from interested parties. The ISCC currently is a new Preliminary Work Item (PWI) at [ISO/TC 46/SC 9](https://iso.org/committee/48836.html). But any standard will only be relevant, if it is being adopted and used by the community. You can help the ISCC Foundation significantly by proliferating news and information about the ISCC and by linking to the specification and available applications.

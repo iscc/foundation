@@ -13,7 +13,7 @@ Freely accessible standard identifiers, which are specifically designed to manag
 
 ## Standardization
 
-The ISCC will be even more useful the more users agree on the suggested standard procedure of hashing the content in order to create the content’s unique ID. The ISCC currently is a preliminary work item (PWI) at [ISO/TC 46/SC 9](https://iso.org/committee/48836.html).
+The ISCC will be even more useful the more users agree on the suggested standard procedure of hashing the content in order to create the content’s unique ID. The ISCC currently is a Preliminary Work Item (PWI) at [ISO/TC 46/SC 9](https://iso.org/committee/48836.html).
 
 ## Specification
 

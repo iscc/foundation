@@ -5,7 +5,7 @@ description: About the International Standard Content Code
 
 ![iscc-sample](images/iscc-logo.png)
 
-With the emergence of blockchain technology the Internet is moving towards a network of peer-to-peer transactions. An increasing amount of dynamic, short-lived and granular content needs to be managed and require new and innovative tools.
+With the emergence of blockchain technology the internet is moving towards a network of peer-to-peer transactions. An increasing amount of dynamic, short-lived and granular content needs to be managed and require new and innovative tools.
 
 Distributing, licensing and re/selling digital content on a global scale is often an all too complicated and inefficient process. Identifiers are randomly and ambiguously applied to content files, metadata or license terms are often incoherent and loosely attached to the content, distributed in separate (ONIX) files, or subject to individual legal negotiations – all of this is time-consuming and prone to errors and manual interventions.
 

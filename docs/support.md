@@ -8,9 +8,6 @@ The **ISCC Foundation** is an independent international **nonprofit** organizati
 
 Individual or regular financial contributions or donations are welcome. They support the development and communication of the **ISCC Standard**. You might be able to deduct your donation from the tax. Please contact us if you have any questions regarding tax deductions.
 
-We also accept donations via **Bitcoin**: **[35DHTs9Uf6fB4bLt4AejSMs1ub6w8Mf1PS](bitcoin:35DHTs9Uf6fB4bLt4AejSMs1ub6w8Mf1PS)**
-
-
 
 ## Endorsements
 

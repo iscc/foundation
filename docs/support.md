@@ -6,8 +6,12 @@ The **ISCC Foundation** is an independent international **nonprofit** organizati
 
 ## Donations
 
-Individual or regular financial contributions or donations are welcome. They support the development and communication of the **ISCC Standard**. You might be able to deduct your donation from the tax. Please contact us if you have any questions regarding tax deductions.
+Individual or regular financial contributions or donations are welcome. They support the development and communication of the **ISCC Standard**. Contact us if you need a donation receipt. Please send your donations to:
 
+**ISCC Foundation**  
+Boerhaavelaan 99  
+NL 2334 EG Leiden  
+**IBAN:** NL70 INGB 0007 1395 12
 
 ## Endorsements
 

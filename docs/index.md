@@ -1,7 +1,14 @@
 title: ISCC Foundation
 description: A nonprofit organization supporting the ISCC (International Standard Content Code) to better create, manage, discover, access, share, and monetize digital content, knowledge and ideas.
 
-# About the ISCC Foundation
+# ISCC Foundation
+
+## News
+
+- [2020-02-16 – ISCC - Status Report](news/2020-02-16.md)
+- [2019-05-23 – ISO establishes Working Group](news/2019-05-23.md)
+
+
 
 ## Statutes
 

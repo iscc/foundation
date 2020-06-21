@@ -1,19 +1,34 @@
 title: About the ISCC
 description: About the International Standard Content Code
+author: Titusz Pan
 
 # About the ISCC
 
 ![iscc-sample](images/iscc-logo.png)
 
-With the emergence of blockchain technology the Internet is moving towards a network of peer-to-peer transactions. An increasing amount of dynamic, short-lived and granular content needs to be managed and require new and innovative tools.
+The need for a *universal identifier* for *digital content* has emerged as an increasing amount of dynamic, short-lived and granular *digital content* is produced, consumed and processed. Commercial interests of many stakeholders depend on proper identification of *digital content*.
 
-Distributing, licensing and re/selling digital content on a global scale is often an all too complicated and inefficient process. Identifiers are randomly and ambiguously applied to content files, metadata or license terms are often incoherent and loosely attached to the content, distributed in separate (ONIX) files, or subject to individual legal negotiations – all of this is time-consuming and prone to errors and manual interventions.
+Professionally produced *digital content* but also semi-professional and user-generated *content* are the currency of the information age.
 
-Freely accessible standard identifiers, which are specifically designed to manage digital content, are a fundamental prerequisite for efficient transactions in a decentralized and increasingly heterogeneous media environment. The **ISCC (International Standard Content Code)** is the first open, generic identifier designed for digital media content. It can be used to register content on the blockchain and also in off-chain environments.
+A variety of specific *content identifier* standards already exist, but a universal *content-dependent identifier* for *digital assets* has not yet been developed.
+
+In particular, the structure and management of *identifiers* for *digital content* have a substantial impact on the level of possible adoption, automation, and the potential for machine-to-machine communication and innovation within and across different industry sectors.
+
+*Digital content* is dynamic, always in motion, and acted upon globally by a variety of entities with different interests and requirements. *Digital content* continuously re-encodes, resizes, and re-compresses, changing its underlying *data* as it travels through a complex network of *actors* and systems.
+
+**The International Standard Content Code (ISCC)** is a proposal for universal *identifier* for *digital assets* that encode text, images, audio, video or other *content.*
+
+The ISCC is generated from the *digital content* itself. It is the result of processing the *digital content* using a variety of *hash algorithms.* The generated code supports *data* integrity verification and also preserves an estimate of the *data*, *digital content* and *metadata* similarity. However, ISCC is not a replacement for a *content recognition system*.
+
+![ISCC Components Structure](images/iscc-components.svg)
+
+The ISCC bridges the gap between higher-level *content identifiers* like work and product *identifiers* and their relations to digitally encoded manifestations of *content*. Because the ISCC is a *content-dependent identifier,* it does not necessarily require a registration authority. The ISCC does not specify a system for managing authoritative *metadata*. Other *content identifier* standards can use ISCC to support discoverability of their *identifiers* and *metadata* based on *digital content*.
+
+The ISCC enables interoperability at the level of the *digital asset* and supports scenarios that require *content* deduplication, integrity verification, timestamping, versioning, *data* provenance, fact-checking and general *digital asset* management use-cases at regional, national or international scale.
 
 ## Standardization
 
-The ISCC will be even more useful the more users agree on the suggested standard procedure of hashing the content in order to create the content’s unique ID. The ISCC currently is a Preliminary Work Item (PWI) at [ISO/TC 46/SC 9](https://iso.org/committee/48836.html).
+The ISCC will be even more useful the more users agree on the suggested standard procedure of hashing the content in order to create the content’s unique ID. The ISCC currently is a Preliminary Work Item (PWI) at [ISO/TC 46/SC 9](https://iso.org/committee/48836.html) being discussed in WG 18 / NP 24138 International Standard Content Code.
 
 ## Specification
 

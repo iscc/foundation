@@ -26,7 +26,7 @@ theme:
 nav:
     - About ISCC: iscc.md
     - About the Foundation: index.md
-    - ISCC Foundation Board: board.md
+    - Board Members: board.md
     - Become a Supporter: support.md
     - News:
           - "2020-02-16": news/2020-02-16.md

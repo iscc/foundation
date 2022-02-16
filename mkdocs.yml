@@ -4,33 +4,50 @@ site_description: 'An open, decentralized content identifier'
 site_author: 'Sebastian Posth, Titusz Pan'
 site_url: 'https://iscc.foundation'
 
+# Repository
+repo_name: 'iscc/foundation'
+repo_url: 'https://github.com/iscc/foundation'
+edit_uri: 'edit/main/docs/'
+
 # Copyright
-copyright: 'Copyright © 2019-2020 ISCC Foundation'
+copyright: 'Copyright © 2019-2022 ISCC Foundation
+| <a href="https://iscc.foundation/privacy">Privacy Policy</a>
+| <a href="https://iscc.foundation/cookies">Cookie Policy</a>
+| <a href="https://iscc.foundation/imprint">Imprint</a>
+| <a href="https://iscc.foundation/disclaimer">Disclaimer</a>'
 
 # Docs and Theme
 theme:
-    name: 'material'
-    custom_dir: 'theme'
-    language: 'en'
-    favicon: 'images/favicon.ico'
-    logo: 'images/iscc-icon-white.svg'
-    feature:
-        tabs: false
-    palette:
-        primary: 'Blue Grey'
-        accent: 'pink'
-    font:
-        text: 'Open Sans'
-        code: 'Source Code Pro'
+  name: material
+  custom_dir: docs/overrides
+  language: en
+  logo: images/iscc-logo-icon-white.svg
+  favicon: images/iscc-logo-icon-black.svg
+  font:
+    text: Readex Pro
+    code: JetBrains Mono
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  features:
+    - navigation.indexes
+    - navigation.tracking
+    - navigation.expand
 
 nav:
-    - About ISCC: iscc.md
-    - About the Foundation: index.md
-    - Board Members: board.md
-    - Become a Supporter: support.md
-    - News:
-          - "2020-02-16": news/2020-02-16.md
-          - "2019-05-22": news/2019-05-23.md
+  - About ISCC: iscc.md
+  - About the Foundation: index.md
+  - Board Members: board.md
+  - Become a Supporter: support.md
+  - News:
+      - "2020-02-16": news/2020-02-16.md
+      - "2019-05-22": news/2019-05-23.md
 
 extra_css:
   - 'styles/extra.css'
@@ -41,5 +58,15 @@ markdown_extensions:
   - pymdownx.tabbed
   - markdown.extensions.meta
   - markdown.extensions.toc:
-        permalink: '#'
+      permalink: '#'
 
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/iscc
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/iscc_dev
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/iscc_foundation
+  analytics:
+    provider: custom

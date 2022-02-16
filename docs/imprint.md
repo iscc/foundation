@@ -11,4 +11,5 @@ Number of the Dutch Chamber of Commerce (KvK): 74793241
 EU Transparency Register number: 119397635730-23
 
 **IBAN:** NL70 INGB 0007 1395 12
+
 **VAT-ID:** NL860028434B01

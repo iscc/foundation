@@ -74,18 +74,3 @@
     Philippe Rixhon is a systems and policy engineer working on value flows in content ecosystems and the holistic implementation of copyright law. He is currently blueprinting Electronic Markets for Media Assets and their underlying rights register. *(Photo: Private)*
 
     https://www.linkedin.com/in/philipperixhon/
-
-<hr>
-
-=== "Kevin Wittek"
-
-    ![Kevin Wittek](images/board-kw.jpg){: width=180 align=left }
-
-    **Head of Blockchain Research / Doctoral Researcher, Institute for Internet Security, Westphalian University of Applied Sciences**
-
-    Kevin is leading a blockchain research group and is a member of the Sovrin Steward Council (Digital Identity and SSI) and the bloxberg consortium (Trusted Research Infrastructure) as well as active Open Source maintainer and contributor.
-
-    After many years working in the industry as a software engineer, Kevin moved back to academia and is now pursuing a PhD in computer science in the field of distributed systems engineering. *(Photo: Private)*
-
-    https://www.linkedin.com/in/kevin-wittek/
-    https://twitter.com/kiview

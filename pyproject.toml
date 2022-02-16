@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "iscc-foundation"
+version = "0.1.0"
+description = "ISCC Foundation Website"
+authors = ["Titusz Pan <tp@iscc.foundation>"]
+
+[tool.poetry.dependencies]
+python = ">=3.7"
+
+[tool.poetry.dev-dependencies]
+mkdocs-material = "^8.1.11"
+black = "^22.1.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

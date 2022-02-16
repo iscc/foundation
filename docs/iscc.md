@@ -28,7 +28,8 @@ The ISCC enables interoperability at the level of the *digital asset* and suppor
 
 ## Standardization
 
-The ISCC will be even more useful the more users agree on the suggested standard procedure of hashing the content in order to create the content’s unique ID. The ISCC currently is a Preliminary Work Item (PWI) at [ISO/TC 46/SC 9](https://iso.org/committee/48836.html) being discussed in WG 18 / NP 24138 International Standard Content Code.
+The ISCC will be even more useful the more users agree on the suggested standard procedure of hashing the content in order to create the content’s unique code. The ISCC has been accepted by ISO as full work item **ISO/AWI 24138 - International Standard Content Code** and is currently being standardized at TC 46/SC 9/WG 18. https://www.iso.org/standard/77899.html
+
 
 ## Specification
 

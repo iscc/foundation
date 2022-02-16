@@ -53,6 +53,9 @@ extra_css:
   - 'styles/extra.css'
 
 markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - attr_list
   - pymdownx.magiclink
   - pymdownx.tabbed

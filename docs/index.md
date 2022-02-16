@@ -22,12 +22,12 @@ The purpose of the foundation is furthermore to collect and distribute funding f
 
 The ISCC Foundation will:
 
-- Promote the foundation’s goals online and globally at events and conferences, 
+- Promote the foundation’s goals online and globally at events and conferences,
 - Offer workshops and online-courses for information and marketing purposes,
 - Develop or sponsor development of open source software,
 - Provide development information, advice or access to developer resources.
 
 ## Contact
 
-The ISCC Foundation is based in Leiden, Netherlands. But we are addressing the **global content community**. You can meet us in person or online via video conference. Or just send us an e-mail. 
+The ISCC Foundation is based in Leiden, Netherlands. But we are addressing the **global content community**. You can meet us in person or online via video conference. Or just send us an e-mail.
 E-mail: info (at) iscc.foundation

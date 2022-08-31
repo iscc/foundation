@@ -5,11 +5,21 @@ description = "ISCC Foundation Website"
 authors = ["Titusz Pan <tp@iscc.foundation>"]
 
 [tool.poetry.dependencies]
-python = ">=3.7"
+python = ">=3.8,<4.0"
 
 [tool.poetry.dev-dependencies]
-mkdocs-material = "^8.1.11"
-black = "^22.1.0"
+mkdocs-material = "*"
+black = "*"
+mdformat = "*"
+mdformat-gfm = "*"
+mdformat-tables = "*"
+mdformat_frontmatter = "*"
+poethepoet = "^0.16.1"
+
+[tool.poe.tasks]
+format-code = { cmd = "poetry run black .", help = "Code formating with black" }
+format-md = { cmd = "mdformat --wrap 100 .", help = "Markdown formating with mdformat" }
+all = ["format-code", "format-md"]
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

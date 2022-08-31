@@ -7,7 +7,7 @@ description: A nonprofit organization supporting the ISCC (International Standar
   content, knowledge and ideas.
 ---
 
-# ISCC Foundation
+# The ISCC Foundation
 
 ## News
 

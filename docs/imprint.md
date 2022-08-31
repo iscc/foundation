@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Imprint
 
 ISCC Foundation<br> Boerhaavelaan 99<br> NL 2334 EG Leiden<br>

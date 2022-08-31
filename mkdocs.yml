@@ -11,10 +11,10 @@ edit_uri: 'edit/main/docs/'
 
 # Copyright
 copyright: 'Copyright © 2019-2022 ISCC Foundation
-| <a href="https://iscc.foundation/privacy">Privacy Policy</a>
-| <a href="https://iscc.foundation/cookies">Cookie Policy</a>
-| <a href="https://iscc.foundation/imprint">Imprint</a>
-| <a href="https://iscc.foundation/disclaimer">Disclaimer</a>'
+| <a href="/privacy">Privacy Policy</a>
+| <a href="/cookies">Cookie Policy</a>
+| <a href="/imprint">Imprint</a>
+| <a href="/disclaimer">Disclaimer</a>'
 
 # Docs and Theme
 theme:
@@ -28,31 +28,17 @@ theme:
     code: JetBrains Mono
   palette:
     - scheme: default
-      primary: deep orange
-      accent: amber
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to dark mode
-    - scheme: slate
-      primary: deep orange
-      accent: amber
       toggle:
         icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
         name: Switch to light mode
-
   features:
-    - navigation.indexes
     - navigation.tracking
-    - navigation.expand
-
-nav:
-  - About ISCC: iscc.md
-  - About the Foundation: index.md
-  - Board Members: board.md
-  - Become a Supporter: support.md
-  - News:
-      - "2020-02-16": news/2020-02-16.md
-      - "2019-05-22": news/2019-05-23.md
+    - navigation.tabs
+    - navigation.top
 
 extra_css:
   - 'styles/extra.css'
@@ -62,6 +48,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - attr_list
+  - md_in_html
   - pymdownx.magiclink
   - pymdownx.tabbed
   - markdown.extensions.meta
@@ -78,3 +65,12 @@ extra:
       link: https://twitter.com/iscc_foundation
   analytics:
     provider: custom
+
+nav:
+  - ISCC Foundation: index.md
+  - ISCC: iscc.md
+  - Board: board.md
+  - Supporters: support.md
+  - News:
+      - "2020-02-16": news/2020-02-16.md
+      - "2019-05-22": news/2019-05-23.md

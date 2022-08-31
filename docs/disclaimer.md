@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Disclaimer
 
 Legally responsible: Sebastian Posth (address see above) By using the website you agree to have read

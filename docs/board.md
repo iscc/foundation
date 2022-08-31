@@ -1,21 +1,26 @@
+---
+hide:
+  - navigation
+---
+
 # ISCC Foundation Board
 
 ## Board of Directors
 
-=== "Sebastian Posth"
+### Sebastian Posth
 
 ![Sebastian Posth](images/board-sp.jpg){ width=180 align=left }
 
-**CEO of Posth Werk BV, Chairman of the Board of the ISCC Foundation**
+**Chairman of the Board of the ISCC Foundation, CEO of Posth Werk BV**
 
 Sebastian is an entrepreneur and consultant in the media industries with a focus on digital
 innovation and decentralized ledger technology. *(Photo: [Private](https://posth.me/about-me/))*
 
-https://www.linkedin.com/in/posth/
+https://www.linkedin.com/in/posth/<br><br><br>
 
 <hr>
 
-=== "Kira Lemke"
+### Kira Lemke
 
 ![Kira Lemke](images/board-kl.jpg){: width=180 align=left }
 
@@ -28,7 +33,7 @@ https://www.linkedin.com/in/kiralemke
 
 <hr>
 
-=== "Titusz Pan"
+### Titusz Pan
 
 ![Titusz Pan](images/board-tp.jpg){: width=180 align=left }
 
@@ -44,7 +49,7 @@ https://www.linkedin.com/in/titusz/
 
 ## Advisory Board
 
-=== "Roanie Levy"
+### Roanie Levy
 
 ![Roany Levy](images/board-rl.jpg){: width=180 align=left }
 
@@ -61,7 +66,7 @@ https://www.linkedin.com/in/roanie-levy-255299a/
 
 <hr>
 
-=== "Lambert Heller"
+### Lambert Heller
 
 ![Lambert Heller](images/board-lh.jpg){: width=180 align=left }
 
@@ -77,7 +82,7 @@ https://twitter.com/Lambo<br> https://tib.eu/Lambo
 
 <hr>
 
-=== "Philippe Rixhon"
+### Philippe Rixhon
 
 ![Philippe Rixhon](images/board-pr.jpg){: width=180 align=left }
 

@@ -1,4 +1,9 @@
-title: About the ISCC description: About the International Standard Content Code author: Titusz Pan
+---
+hide:
+  - navigation
+title: About the ISCC
+description: About the International Standard Content Code
+---
 
 # About the ISCC
 

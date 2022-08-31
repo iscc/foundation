@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Privacy Policy
 
 This is the Privacy Policy of ISCC Foundation (hereinafter referred to as "ISCC Foundation," "we,"

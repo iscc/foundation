@@ -1,4 +1,9 @@
-title: Support the ISCC description: Support the development of the ISCC Standard and ecosystem.
+---
+hide:
+  - navigation
+title: Support the ISCC
+description: Support the development of the ISCC Standard and ecosystem.
+---
 
 # Become a Supporter
 

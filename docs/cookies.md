@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Cookie Policy
 
 This is the cookie policy of ISCC Foundation (“**ISCC Foundation**”, "we," "us" or "our"), a company

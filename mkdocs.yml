@@ -27,14 +27,18 @@ theme:
     text: Readex Pro
     code: JetBrains Mono
   palette:
-    - scheme: default
+    - scheme: slate
+      primary: deep orange
+      accent: amber
       toggle:
         icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
-    - scheme: slate
+        name: Switch to light mode
+    - scheme: default
+      primary: deep orange
+      accent: amber
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode
+        name: Switch to dark mode
   features:
     - navigation.indexes
     - navigation.tracking

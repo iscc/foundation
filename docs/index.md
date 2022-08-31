@@ -1,6 +1,9 @@
-title: ISCC Foundation description: A nonprofit organization supporting the ISCC (International
-Standard Content Code) to better create, manage, discover, access, share, and monetize digital
-content, knowledge and ideas.
+---
+title: |-
+  ISCC Foundation description: A nonprofit organization supporting the ISCC (International
+  Standard Content Code) to better create, manage, discover, access, share, and monetize digital
+  content, knowledge and ideas.
+---
 
 # ISCC Foundation
 

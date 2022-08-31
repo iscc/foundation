@@ -1,6 +1,6 @@
 # Project information
 site_name: 'ISCC Foundation'
-site_description: 'An open, decentralized content identifier'
+site_description: 'Open and decentralized content identification.'
 site_author: 'Sebastian Posth, Titusz Pan'
 site_url: 'https://iscc.foundation'
 
@@ -27,18 +27,19 @@ theme:
     text: Readex Pro
     code: JetBrains Mono
   palette:
-    - scheme: slate
-      primary: deep orange
-      accent: amber
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to light mode
     - scheme: default
       primary: deep orange
       accent: amber
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
+    - scheme: slate
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+
   features:
     - navigation.indexes
     - navigation.tracking

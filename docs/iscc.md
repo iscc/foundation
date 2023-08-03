@@ -54,7 +54,7 @@ international scale.
 
 The ISCC will be even more useful the more users agree on the suggested standard procedure of
 hashing the content in order to create the content’s unique code. The ISCC has been accepted by ISO
-as full work item **ISO/AWI 24138 - International Standard Content Code** and is currently being
+as full work item **ISO/CD 24138.2 - International Standard Content Code** and is currently being
 standardized at TC 46/SC 9/WG 18. https://www.iso.org/standard/77899.html
 
 ## Specification

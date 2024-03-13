@@ -66,6 +66,24 @@ https://www.linkedin.com/in/roanie-levy-255299a/
 
 <hr>
 
+### Frank Schulleri
+
+![Frank Schulleri](images/board-fs.jpg){: width=180 align=left }
+
+**Content.Agent – The Marketplace for Content License Trading**
+
+Since 2017, Frank has kept true to his professional motto: ‘Boosting Creative Industries with a
+passion for tech, quality and people’. He persistently strives to utilize forward-thinking
+technologies to create innovative, high-quality solutions that put people’s needs first.
+
+As CEO of Content.Agent, Frank currently concentrates on preparing the audiovisual industry for
+the future of content trading. His mission: providing the right tools for effective data
+management, transparent rights-handling and efficient license trading.
+
+https://www.linkedin.com/in/frank-schulleri/
+
+<hr>
+
 ### Lambert Heller
 
 ![Lambert Heller](images/board-lh.jpg){: width=180 align=left }

@@ -14,7 +14,7 @@ mdformat = "*"
 mdformat-gfm = "*"
 mdformat-tables = "*"
 mdformat_frontmatter = "*"
-poethepoet = "^0.16.1"
+poethepoet = "*"
 
 [tool.poe.tasks]
 format-code = { cmd = "poetry run black .", help = "Code formating with black" }

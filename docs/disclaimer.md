@@ -3,6 +3,12 @@ hide:
   - navigation
 ---
 
+!!! note "ISCC has a new Website"
+
+    This website is deprecated! We leave it running for historic reasins but it is not updated.
+
+    ## **Please visit our new site at [iscc.io](https://iscc.io)**
+
 # Disclaimer
 
 Legally responsible: Sebastian Posth (address see above) By using the website you agree to have read

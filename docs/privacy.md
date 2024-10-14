@@ -3,6 +3,12 @@ hide:
   - navigation
 ---
 
+!!! note "ISCC has a new Website"
+
+    This website is deprecated! We leave it running for historic reasins but it is not updated.
+
+    ## **Please visit our new site at [iscc.io](https://iscc.io)**
+
 # Privacy Policy
 
 This is the Privacy Policy of ISCC Foundation (hereinafter referred to as "ISCC Foundation," "we,"

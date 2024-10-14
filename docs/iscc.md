@@ -7,6 +7,12 @@ description: About the International Standard Content Code
 
 # About the ISCC
 
+!!! note "ISCC has a new Website"
+
+    This website is deprecated! We leave it running for historic reasins but it is not updated.
+
+    ## **Please visit our new site at [iscc.io](https://iscc.io)**
+
 ![iscc-sample](images/iscc-logo.png)
 
 The need for a *universal identifier* for *digital content* has emerged as an increasing amount of

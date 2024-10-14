@@ -7,6 +7,12 @@ description: Support the development of the ISCC Standard and ecosystem.
 
 # Become a Supporter
 
+!!! note "ISCC has a new Website"
+
+    This website is deprecated! We leave it running for historic reasins but it is not updated.
+
+    ## **Please visit our new site at [iscc.io](https://iscc.io)**
+
 The **ISCC Foundation** is an independent international **nonprofit** organization. In order to
 reach our goals, you can support us in various ways:
 

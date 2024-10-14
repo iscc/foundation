@@ -9,8 +9,16 @@ description: A nonprofit organization supporting the ISCC (International Standar
 
 # The ISCC Foundation
 
+!!! note "ISCC has a new Website"
+
+    This website is deprecated! We leave it running for historic reasins but it is not updated.
+
+    ## **Please visit our new site at [iscc.io](https://iscc.io)**
+
+
 ## News
 
+- [2024-05-27 - ISCC - ISO 24138:2024 is Published](https://iscc.io/iso-publishes-new-standard-enabling-content-transparency-iso-24138/)
 - [2020-02-16 – ISCC - Status Report](news/2020-02-16.md)
 - [2019-05-23 – ISO establishes Working Group](news/2019-05-23.md)
 

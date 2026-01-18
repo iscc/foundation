@@ -1,23 +1,16 @@
 ---
 hide:
   - navigation
+title: Imprint
+description: ISCC Foundation Imprint
 ---
 
-!!! note "ISCC has a new Website"
+<meta http-equiv="refresh" content="0; url=https://iscc.io/imprint/">
+<link rel="canonical" href="https://iscc.io/imprint/">
+<script>window.location.href = "https://iscc.io/imprint/";</script>
 
-    This website is deprecated! We leave it running for historic reasins but it is not updated.
+# This page has moved
 
-    ## **Please visit our new site at [iscc.io](https://iscc.io)**
+This page has been moved to our new website.
 
-# Imprint
-
-ISCC Foundation<br>
-Demmersweg 92<br>
-NL 7556 BN Hengelo<br>
-
-info \[at\] iscc.io<br>
-
-Number of the Dutch Chamber of Commerce (KvK): 74793241<br> EU Transparency Register number:
-119397635730-23<br>
-
-VAT-ID: NL860028434B01
+**[Click here if you are not redirected automatically](https://iscc.io/imprint/)**

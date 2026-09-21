@@ -1,0 +1,24 @@
+{#-
+  Head override for the retired iscc.foundation site.
+  A page whose front matter sets `redirect` carries a single canonical plus
+  meta-refresh and JS redirect to that URL on iscc.io, which search engines
+  treat as a permanent redirect.
+-#}
+{% extends "base.html" %}
+
+{% block site_meta %}
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  {% if page.meta and page.meta.description %}
+    <meta name="description" content="{{ page.meta.description }}">
+  {% elif config.site_description %}
+    <meta name="description" content="{{ config.site_description }}">
+  {% endif %}
+  {% if page.meta and page.meta.redirect %}
+    <link rel="canonical" href="{{ page.meta.redirect }}">
+    <meta http-equiv="refresh" content="0; url={{ page.meta.redirect }}">
+    <script>window.location.replace("{{ page.meta.redirect }}");</script>
+  {% endif %}
+  <link rel="icon" href="{{ config.theme.favicon | url }}">
+  <meta name="generator" content="mkdocs-{{ mkdocs_version }}, mkdocs-material-9.5.40">
+{% endblock %}
